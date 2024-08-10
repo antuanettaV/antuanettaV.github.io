@@ -1,15 +1,33 @@
-{
-  "id": 1,
-  "name": "Risalamande",
-  "pictureUrl": "https://denmark.dk/-/media/websites/denmarkdk/people-and-culture/danish-christmas-recipes/webbilleder/risalamande.ashx?mw=1600&hash=BA7D0C45FED7BAC10782B64A2E71E43B",
-  "ingredients": [
-    "1 litre whole milk",
-    "2.5 dl short grain white rice",
-    "Pinch salt",
-    "½ litre heavy cream",
-    "150 g almonds",
-    "2 tbsp sugar",
-    "2 whole vanilla beans",
-    "Danish cherry sauce"
-  ]
-}
+[
+  {
+    "id": 1,
+    "name": "Risalamande",
+    "pictureUrl": "https://denmark.dk/-/media/websites/denmarkdk/people-and-culture/danish-christmas-recipes/webbilleder/risalamande.ashx?mw=1600&hash=BA7D0C45FED7BAC10782B64A2E71E43B",
+    "ingredients": [
+      "1 litre whole milk",
+      "2.5 dl short grain white rice",
+      "Pinch salt",
+      "½ litre heavy cream",
+      "150 g almonds",
+      "2 tbsp sugar",
+      "2 whole vanilla beans",
+      "Danish cherry sauce"
+    ]
+  },
+  {
+    "title": "Fresh Watermelon Salad",
+    "ingredients": ["watermelon", "mint", "red onion", "baby salad leaves", "feta"]
+  },
+  {
+    "title": "Strawberry Tart",
+    "ingredients": ["marzipan", "sugar", "butter", "eggs", "flour", "vanilla sugar", "chocolate", "strawberries"]
+  },
+  {
+    "title": "Potato Salad",
+    "ingredients": ["potatoes", "asparagus", "chives", "onion", "radishes", "sour cream", "mayonnaise", "mustard", "salt", "pepper"]
+  },
+  {
+    "title": "Apple Trifle",
+    "ingredients": ["apples", "water", "vanilla powder", "lemon juice", "sugar", "breadcrumbs", "butter", "double cream"]
+  }
+]
