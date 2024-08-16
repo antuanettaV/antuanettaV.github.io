@@ -4,30 +4,241 @@
     "name": "Risalamande",
     "pictureUrl": "https://denmark.dk/-/media/websites/denmarkdk/people-and-culture/danish-christmas-recipes/webbilleder/risalamande.ashx?mw=1600&hash=BA7D0C45FED7BAC10782B64A2E71E43B",
     "ingredients": [
-      "1 litre whole milk",
-      "2.5 dl short grain white rice",
-      "Pinch salt",
-      "½ litre heavy cream",
-      "150 g almonds",
-      "2 tbsp sugar",
-      "2 whole vanilla beans",
-      "Danish cherry sauce"
-    ]
+      {
+        "name": "Whole milk",
+        "quantity": "1 litre",
+        "price": 14
+      },
+      {
+        "name": "Short grain white rice",
+        "quantity": "2.5 dl",
+        "price": 3.25
+      },
+      {
+        "name": "Pinch salt",
+        "quantity": "1 g",
+        "price": 0.015
+      },
+      {
+        "name": "Heavy cream",
+        "quantity": "½ litre",
+        "price": 18
+      },
+      {
+        "name": "Almonds",
+        "quantity": "150 g",
+        "price": 5.85
+      },
+      {
+        "name": "Sugar",
+        "quantity": "2 tbsp",
+        "price": 0.27
+      },
+      {
+        "name": "Whole vanilla beans",
+        "quantity": "2",
+        "price": 7.50
+      },
+      {
+        "name": "Danish cherry sauce",
+        "quantity": "500 g",
+        "price": 10
+      }
+    ],
+    "description": "Slowly bring the milk and rice to a boil while stirring. Add a pinch of salt. Reduce the heat and simmer for about 40 minutes. Remember to stir frequently. Refrigerate until the following day. Pour boiling water over the almonds and soak for 10 minutes. Then remove the almond skins and coarsely chop all but the largest and best whole almond, which will be in the bowl of the lucky winner later that evening. Split the vanilla beans and scrape out the seeds. Lightly whip the heavy cream in a separate large bowl. Gently fold the chopped almonds, vanilla sugar, and whipped cream into the cold rice porridge. Serve with heated Danish cherry sauce."
   },
   {
     "title": "Fresh Watermelon Salad",
-    "ingredients": ["watermelon", "mint", "red onion", "baby salad leaves", "feta"]
+    "ingredients": [
+      {
+        "name": "Watermelon",
+        "quantity": "500 g",
+        "price": 7.5
+      },
+      {
+        "name": "Mint",
+        "quantity": "1/2 bunch",
+        "price": 6
+      },
+      {
+        "name": "Red onion",
+        "quantity": "1/4",
+        "price": 3.25
+      },
+      {
+        "name": "Baby salad leaves",
+        "quantity": "100 g",
+        "price": 12
+      },
+      {
+        "name": "Feta",
+        "quantity": "120 g",
+        "price": 19.95
+      }
+    ],
+    "description": "Remove the skin from the watermelon and cut into small wedges. In a large bowl, toss the watermelon, mint, red onion, salad leaves. Place in a serving bowl and crumble the feta on top."
   },
   {
     "title": "Strawberry Tart",
-    "ingredients": ["marzipan", "sugar", "butter", "eggs", "flour", "vanilla sugar", "chocolate", "strawberries"]
+    "ingredients": [
+      {
+        "name": "Marzipan",
+        "quantity": "250 g",
+        "price": 24.93
+      },
+      {
+        "name": "Sugar",
+        "quantity": "80 g",
+        "price": 1.6
+      },
+      {
+        "name": "Butter",
+        "quantity": "7 oz",
+        "price": 24
+      },
+      {
+        "name": "Eggs",
+        "quantity": "4",
+        "price": 9
+      },
+      {
+        "name": "Flour",
+        "quantity": "50 g",
+        "price": 1.20
+      },
+      {
+        "name": "Vanilla sugar",
+        "quantity": "3 tsp",
+        "price": 5.73
+      },
+      {
+        "name": "Chocolate",
+        "quantity": "100 g",
+        "price": 20
+      },
+      {
+        "name": "Strawberries",
+        "quantity": "500 g",
+        "price": 35.72
+      },
+      {
+        "name": "Milk",
+        "quantity": "2 dl",
+        "price": 2.80
+      },
+      {
+        "name": "Double cream",
+        "quantity": "1 dl",
+        "price": 9.2
+      },
+      {
+        "name": "Corn starch",
+        "quantity": "2 tbsp",
+        "price": 1.12
+      }
+    ],
+    "description": "Grate the marzipan and mix thoroughly with the sugar. Whip the mixture with butter until fluffy. Whip the eggs into the mixture and then fold the flour into the dough. Line an approximately 24 cm springform pan with baking paper and grease with butter. Then roll out the dough and transfer to the pan. Bake in the middle of the oven for approximately 25 minutes. Prepare the vanilla custard while the dough bakes. Finely chop the chocolate and sprinkle over the shell after baking. Spread out the chocolate with a spatula as it melts. Allow the shell to cool to room temperature. Mix vanilla sugar, egg yolks, sugar, and corn starch in a saucepan. Turn the heat to medium and whisk in the milk. Heat the mixture while stirring until it thickens. Transfer the custard to a container and cool completely. Whip the double cream to a light foam and fold it into the cooled vanilla custard. Rinse the strawberries, remove the stems, and quarter from top to bottom. Spread the vanilla custard in a thick layer on top of the tart shell. Top with the fresh strawberries."
   },
   {
     "title": "Potato Salad",
-    "ingredients": ["potatoes", "asparagus", "chives", "onion", "radishes", "sour cream", "mayonnaise", "mustard", "salt", "pepper"]
+    "ingredients": [
+      {
+        "name": "Potatoes",
+        "quantity": "600 g",
+        "price": 5.20
+      },
+      {
+        "name": "Asparagus",
+        "quantity": "150 g",
+        "price": 22.35
+      },
+      {
+        "name": "Chives",
+        "quantity": "1 bunch",
+        "price": 18
+      },
+      {
+        "name": "Red onion",
+        "quantity": "1",
+        "price": 2
+      },
+      {
+        "name": "Radishes",
+        "quantity": "8",
+        "price": 7.20
+      },
+      {
+        "name": "Sour cream",
+        "quantity": "1 dl",
+        "price": 7.5
+      },
+      {
+        "name": "Mayonnaise",
+        "quantity": "1 dl",
+        "price": 8
+      },
+      {
+        "name": "Mustard",
+        "quantity": "2 tsp",
+        "price": 2.58
+      },
+      {
+        "name": "Salt",
+        "quantity": "2 g",
+        "price": 0.06
+      },
+      {
+        "name": "Pepper",
+        "quantity": "2 g",
+        "price": 0.32
+      }
+    ],
+    "description": "Boil potatoes in lightly salted water for 10 to 12 minutes. Drain water when a potato speared with a fork and lifted out of the water easily glides off the fork and falls back into the pot. Let potatoes stand and cool. Break off and discard the stringy ends of the asparagus spears, then chop into small pieces. You can pour boiling water over the chopped asparagus and let it soak for 2 minutes if you prefer a less raw taste. Finely chop chives, red onion, and radishes. Stir the dressing ingredients together and season with salt and pepper. Reserve some of the chives for garnish and combine the rest of the vegetables with the dressing. Season with salt and pepper, garnish with chives, and serve as a side dish."
   },
   {
     "title": "Apple Trifle",
-    "ingredients": ["apples", "water", "vanilla powder", "lemon juice", "sugar", "breadcrumbs", "butter", "double cream"]
+    "ingredients": [
+      {
+        "name": "Cooking apples",
+        "quantity": "800 g",
+        "price": 20
+      },
+      {
+        "name": "Water",
+        "quantity": "1/2 dl",
+        "price": 2
+      },
+      {
+        "name": "Vanilla powder",
+        "quantity": "1 tsp",
+        "price": 5.52
+      },
+      {
+        "name": "Lemon juice",
+        "quantity": "1 tbsp",
+        "price": 0.42
+      },
+      {
+        "name": "Sugar",
+        "quantity": "5 tbsp",
+        "price": 1.50
+      },
+      {
+        "name": "Breadcrumbs",
+        "quantity": "100 g",
+        "price": 5.9
+      },
+      {
+        "name": "Butter",
+        "quantity": "50 g",
+        "price": 5
+      },
+      {
+        "name": "Double cream",
+        "quantity": "2 dl",
+        "price": 18.40
+      }
+    ],
+    "description": "Cook the apples with water, vanilla powder, lemon juice, and sugar until soft. Layer the cooked apples with toasted breadcrumbs and whipped cream."
   }
 ]
